@@ -1,0 +1,2 @@
+# MediaArimetrica
+tarefa etec
